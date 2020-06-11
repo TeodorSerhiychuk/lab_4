@@ -1,0 +1,2 @@
+C:\Users\TheodoreSerhiychuk\Desktop\NULP\Іванюк\rest-event-hub\obj\x86\Debug\4.vbprojAssemblyReference.cache
+C:\Users\TheodoreSerhiychuk\Desktop\NULP\Іванюк\rest-event-hub\obj\x86\Debug\4.vbproj.CoreCompileInputs.cache
